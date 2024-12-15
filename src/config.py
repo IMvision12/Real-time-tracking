@@ -4,7 +4,7 @@ import logging
 API_KEY = "Your API key"
 BUS_LINE = "B52"
 HDFS_URL = "http://localhost:9870"
-HDFS_USER = "chawdagitesh"
+HDFS_USER = "HDFS USER NAME"
 HDFS_OUTPUT_DIR = "/bus_tracking/B52"
 PROCESSED_DATA_DIR = "/bus_tracking/processed"
 UPDATE_INTERVAL = 20  # seconds
