@@ -44,6 +44,7 @@ This project is a comprehensive real-time bus tracking application that leverage
       + Confirm no startup errors in the console
          
 7. Start Data Collection Service
+   * Update the API key in `config.py` and `leaf.js` files
    * Open a new terminal
    * Navigate to the project's `src` directory: `cd Real-time-tracking/src`
    * Launch the MTA Bus API data fetching script: `python main.py`
@@ -51,7 +52,7 @@ This project is a comprehensive real-time bus tracking application that leverage
       + Check console logs for successful API connections
       + Monitor initial data retrieval process
          
-8. Launch Flask Web Application
+9. Launch Flask Web Application
    * pen another terminal
    * Ensure you're in the `Real-time-tracking` project directory
    * Start the Flask web application: `python app.py`
