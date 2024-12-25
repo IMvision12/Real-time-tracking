@@ -30,9 +30,6 @@ cache = {
 }
 cache_lock = Lock()
 
-def get_kafka_client():
-    return KafkaClient(hosts='127.0.0.1:9092')
-
 def get_hdfs_client():
     return InsecureClient(HDFS_URL, user=HDFS_USER)
 
