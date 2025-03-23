@@ -9,7 +9,7 @@ This project is a comprehensive real-time bus tracking application that leverage
 # Technologies Used
 
 1. Frontend: Leaflet.js for interactive mapping
-2. Backend: Python Flask
+2. Backend: Python, Flask
 3. Big Data Processing: Apache Hadoop / HDFS
 
 # Installation
